@@ -14,6 +14,9 @@ ENV APP_ENV=production
 ENV APP_DEBUG=true
 ENV APP_KEY=base64:zZlXoI6R5eTj80q8uT7VbE4h9fJ6wG3d5Y9a8B7c6D0=
 ENV LOG_CHANNEL=stderr
+ENV SESSION_DRIVER=cookie
+ENV DB_CONNECTION=sqlite
+ENV DB_DATABASE=/var/www/html/database/database.sqlite
 
 # Install system dependencies and PHP extensions
 RUN apk add --no-cache \
@@ -36,6 +39,10 @@ WORKDIR /var/www/html
 
 # Copy app files
 COPY . .
+
+# Create empty SQLite database and set permissions
+RUN touch database/database.sqlite && \
+    chown -R www-data:www-data database
 
 # Copy built frontend assets from Stage 1
 COPY --from=frontend-builder /app/public/build ./public/build
