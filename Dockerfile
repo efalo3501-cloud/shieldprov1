@@ -9,6 +9,12 @@ RUN npm run build
 # Stage 2: App run environment
 FROM php:8.2-fpm-alpine
 
+# Default Laravel Env configs
+ENV APP_ENV=production
+ENV APP_DEBUG=true
+ENV APP_KEY=base64:zZlXoI6R5eTj80q8uT7VbE4h9fJ6wG3d5Y9a8B7c6D0=
+ENV LOG_CHANNEL=stderr
+
 # Install system dependencies and PHP extensions
 RUN apk add --no-cache \
     nginx \
