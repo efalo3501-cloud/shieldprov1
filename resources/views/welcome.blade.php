@@ -67,7 +67,7 @@
             <ul class="nav-links">
                 <li><a href="#" class="active">Home</a></li>
                 <li><a href="#">Solution</a></li>
-                <li><a href="#">Products</a></li>
+                <li><a href="/products">Products</a></li>
                 <li><a href="#">Services</a></li>
                 <li><a href="#">Blog</a></li>
                 <li><a href="#">About</a></li>
@@ -1492,26 +1492,26 @@
                 <!-- Bottom Features List -->
                 <ul class="cta-features">
                     <li>
-                        <svg class="check-icon" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path>
+                        <svg class="check-icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                         </svg>
                         <span>Free Inspection</span>
                     </li>
                     <li>
-                        <svg class="check-icon" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path>
+                        <svg class="check-icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                         </svg>
                         <span>24-Hour Response</span>
                     </li>
                     <li>
-                        <svg class="check-icon" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path>
+                        <svg class="check-icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                         </svg>
                         <span>Written Warranty</span>
                     </li>
                     <li>
-                        <svg class="check-icon" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path>
+                        <svg class="check-icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                         </svg>
                         <span>No Hidden Charges</span>
                     </li>
