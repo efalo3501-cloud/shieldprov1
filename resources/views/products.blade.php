@@ -411,7 +411,7 @@
                                     </svg>
                                     <span>Add to Cart</span>
                                 </button>
-                                <a href="#" class="view-details-btn-main">View Details</a>
+                                <a href="/product/aquashield-pro-500" class="view-details-btn-main">View Details</a>
                             </div>
                         </div>
                     </div>
@@ -475,7 +475,7 @@
                                     </svg>
                                     <span>Add to Cart</span>
                                 </button>
-                                <a href="#" class="view-details-btn-main">View Details</a>
+                                <a href="/product/aquashield-pro-500" class="view-details-btn-main">View Details</a>
                             </div>
                         </div>
                     </div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <span>Add to Cart</span>
                                 </button>
-                                <a href="#" class="view-details-btn-main">View Details</a>
+                                <a href="/product/aquashield-pro-500" class="view-details-btn-main">View Details</a>
                             </div>
                         </div>
                     </div>
@@ -602,7 +602,7 @@
                                     </svg>
                                     <span>Add to Cart</span>
                                 </button>
-                                <a href="#" class="view-details-btn-main">View Details</a>
+                                <a href="/product/aquashield-pro-500" class="view-details-btn-main">View Details</a>
                             </div>
                         </div>
                     </div>
@@ -666,7 +666,7 @@
                                     </svg>
                                     <span>Add to Cart</span>
                                 </button>
-                                <a href="#" class="view-details-btn-main">View Details</a>
+                                <a href="/product/aquashield-pro-500" class="view-details-btn-main">View Details</a>
                             </div>
                         </div>
                     </div>
@@ -729,7 +729,7 @@
                                     </svg>
                                     <span>Add to Cart</span>
                                 </button>
-                                <a href="#" class="view-details-btn-main">View Details</a>
+                                <a href="/product/aquashield-pro-500" class="view-details-btn-main">View Details</a>
                             </div>
                         </div>
                     </div>
@@ -792,7 +792,7 @@
                                     </svg>
                                     <span>Add to Cart</span>
                                 </button>
-                                <a href="#" class="view-details-btn-main">View Details</a>
+                                <a href="/product/aquashield-pro-500" class="view-details-btn-main">View Details</a>
                             </div>
                         </div>
                     </div>
@@ -855,7 +855,7 @@
                                     </svg>
                                     <span>Add to Cart</span>
                                 </button>
-                                <a href="#" class="view-details-btn-main">View Details</a>
+                                <a href="/product/aquashield-pro-500" class="view-details-btn-main">View Details</a>
                             </div>
                         </div>
                     </div>
@@ -918,7 +918,7 @@
                                     </svg>
                                     <span>Add to Cart</span>
                                 </button>
-                                <a href="#" class="view-details-btn-main">View Details</a>
+                                <a href="/product/aquashield-pro-500" class="view-details-btn-main">View Details</a>
                             </div>
                         </div>
                     </div>
