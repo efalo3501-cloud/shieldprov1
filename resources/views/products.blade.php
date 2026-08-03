@@ -64,7 +64,7 @@
                 <li><a href="/">Home</a></li>
                 <li><a href="#">Solution</a></li>
                 <li><a href="/products" class="active">Products</a></li>
-                <li><a href="#">Services</a></li>
+                <li><a href="/services">Services</a></li>
                 <li><a href="#">Blog</a></li>
                 <li><a href="#">About</a></li>
             </ul>
